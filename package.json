@@ -1,0 +1,35 @@
+{
+  "name": "bentbot",
+  "version": "1.0.0",
+  "description": "de-spinning bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "no",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samhager11/bentbot.git"
+  },
+  "keywords": [
+    "bot",
+    "messenger",
+    "bot",
+    "spin",
+    "bot",
+    "bent",
+    "bot"
+  ],
+  "author": "Sam Hager",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samhager11/bentbot/issues"
+  },
+  "homepage": "https://github.com/samhager11/bentbot#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "dashbot": "^0.6.0",
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  }
+}
